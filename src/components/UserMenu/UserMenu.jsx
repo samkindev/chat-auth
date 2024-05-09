@@ -19,8 +19,8 @@ export const UserMenu = () => {
         className={`z-10 ${openDropDownClass} absolute top-10 right-0 bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600`}
       >
         <div className="px-4 py-3 text-sm text-gray-900 dark:text-white">
-          <div>User Name</div>
           <div className="font-medium truncate">user@nep.com</div>
+          <div>User Name</div>
         </div>
         <ul
           className="py-2 text-sm text-gray-700 dark:text-gray-200"
